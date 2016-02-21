@@ -1,0 +1,17 @@
+Keyboard Controls:
+
+D:Increase clockwise angle
+A:Increase counter-clockwise angle
+F:Increase Speed
+S:Decrease Speed
++:Zoom in
+-:Zoom out
+Arrow keys:Panning left and right
+
+Mouse Controls: (Preferred)
+Hold the left mouse button, get the required angle using the mouse and release the mouse button to shoot. 
+The distance from the mouse-coordinates to the center of the ball is used to calculate the initial velocities.
+Use right mouse button to pan left and right.
+
+Hitting the Brick: 1 point
+Hitting the Pig: 2 points
